@@ -1,1 +1,1 @@
-file3 is a new file
+file3 is a new file. Now even newer!
